@@ -1,0 +1,6 @@
+apt update
+apt upgrade
+pkg install wget php git openssh
+git clone https://github.com/username/repository-name
+cd repository-name
+bash script-name.sh
